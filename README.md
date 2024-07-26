@@ -32,10 +32,9 @@ currently Working at Siddhatech As iOS Developer
   
 ## 🏆 Competitive Programming
 - Participated in various coding competitions on platforms like Codeforces, LeetCode, and HackerRank.
-- [LeetCode Profile]((https://leetcode.com/u/Bhushan_Sangale15/))
-- 
+- LeetCode Profile:[(https://leetcode.com/u/Bhushan_Sangale15/)]
 ## 📫 Contact Me
 - Email: [sangalebhushan05@gmail.com](mailto:sangalebhushan05@gmail.com)
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/bhushan-sangale-8b198a227/))
+- LinkedIn: [(https://www.linkedin.com/in/bhushan-sangale-8b198a227/)]
 
 
