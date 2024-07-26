@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Bhushan Sangale 👋
 
-<!--
-**SangaleBhushan/SangaleBhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
-Here are some ideas to get you started:
+I'm a passionate developer with expertise in Java, iOS development, web development, and competitive programming.
+currently Working at Siddhatech As iOS Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+### Languages
+- Java
+- c++/STL
+- MySQL
+- Swift (for iOS development)
+- JavaScript
+- HTML & CSS
+
+### Frameworks & Libraries
+- Spring Boot (Java)
+- UIKit (iOS)
+- SwiftUI
+- React.js (Web)
+- Node.js (Web backend)
+
+### Tools & Platforms
+- Xcode (iOS development)
+- IntelliJ IDEA (Java development)
+- VS Code (Web development)
+- Git & GitHub
+- Figma
+- Lottie Animation
+  
+## 🏆 Competitive Programming
+- Participated in various coding competitions on platforms like Codeforces, LeetCode, and HackerRank.
+- [LeetCode Profile]((https://leetcode.com/u/Bhushan_Sangale15/))
+- 
+## 📫 Contact Me
+- Email: [sangalebhushan05@gmail.com](mailto:sangalebhushan05@gmail.com)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/bhushan-sangale-8b198a227/))
+
+
