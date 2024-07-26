@@ -2,8 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SangaleBhushan&color=green)
 
-I'm an enthusiastic developer with a strong focus on iOS development, along with experience in Java, web development, and competitive programming.
-
+I'm an experienced iOS developer currently working at SidhhTech Software Solutions. I specialize in creating high-quality iOS applications using Swift and UIKit. In addition to iOS development, I have a strong background in Java, web development, and competitive programming. I'm passionate about coding, problem-solving, and continuously learning new technologies.
 ## 🛠️ Technologies & Tools
 
 ### Languages
