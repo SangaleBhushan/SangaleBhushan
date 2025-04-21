@@ -38,7 +38,7 @@ I'm an experienced iOS developer currently working at SidhhTech Software Solutio
 - [LeetCode Profile](https://leetcode.com/u/Bhushan_Sangale15/)
 
 ## 👨‍💼 Professional Experience
-- **iOS Developer** at [SidhhTech Software Solutions](https://www.sidhhtech.com)
+- **iOS Developer** at [SidhhTech Software Solutions](https://www.sidhhatech.com)
   - Developing high-quality iOS applications.
   - Collaborating with cross-functional teams to define, design, and ship new features.
   - Ensuring the performance, quality, and responsiveness of applications.
