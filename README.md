@@ -8,7 +8,7 @@
 
 ## 💼 About Me  
 
-🎯 **Software Engineer (iOS Developer)** at [SidhhTech Software Solutions](https://www.sidhhatech.com).  
+🎯 **Software Engineer (iOS Developer)** at [SidhhaTech Software Services](https://www.sidhhatech.com).  
 📱 Passionate about **building interactive, animated, and high-performance iOS apps** with **SwiftUI** and **UIKit**.  
 💡 Skilled in **Java, Web Development**, and **Competitive Programming**.  
 ⚡ Strong believer in **clean architecture, reusability, and delightful UI/UX with animations**.  
