@@ -1,113 +1,148 @@
-<h1 align="center">Hi there, I'm Bhushan Sangale 👋</h1>
+# Hi there, I'm Bhushan Sangale 👋
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SangaleBhushan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SangaleBhushan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SangaleBhushan?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
+## 🚀 About Me
 
-## 💼 About Me  
+iOS Engineer with **2.2+ years of experience** building scalable, secure, and high-performance mobile applications.
 
-🎯 **Software Engineer (iOS Developer)** at [SidhhaTech Software Services](https://www.sidhhatech.com).  
-📱 Passionate about **building interactive, animated, and high-performance iOS apps** with **SwiftUI** and **UIKit**.  
-💡 Skilled in **Java, Web Development**, and **Competitive Programming**.  
-⚡ Strong believer in **clean architecture, reusability, and delightful UI/UX with animations**.  
-
----
-
-## 🔧 Tech Stack  
-
-### 💻 Languages  
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
-### 🧰 Frameworks & Libraries  
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-46A2F1?logo=swift&logoColor=white&style=flat)  
-![UIKit](https://img.shields.io/badge/-UIKit-2396F3?logo=apple&logoColor=white&style=flat)  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Lottie](https://img.shields.io/badge/-Lottie-FF4088?style=flat&logo=lottie&logoColor=white)
-
-### 🛠 Tools & Platforms  
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=flat)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)  
+* 📱 Building production-grade apps using **Swift, SwiftUI, UIKit, and Objective-C**
+* 🏦 Experienced in developing **banking and fintech applications**
+* ⚡ Strong focus on **Clean Architecture, MVVM, Modular Design, and Swift Concurrency**
+* 🔐 Skilled in **Biometric Authentication, SSL Pinning, Keychain, and Secure API Integration**
+* 🧪 Passionate about **performance optimization, testing, and crash-free user experiences**
+* 💡 Active problem solver with experience in **Data Structures & Algorithms**
 
 ---
 
-## 🎨 Animation Skills (iOS Focus)
+## 🛠 Tech Stack
 
-✨ I specialize in creating **fluid, user-friendly animations** in SwiftUI & UIKit:
-- 🌀 **Custom loaders & spinners** (gradient circular loaders, pulse, wave, shimmer)
-- 💖 **Interactive button animations** (springy favorites, bounce effects, rotating icons)
-- 📱 **Screen transitions** (slide, fade, matched-geometry animations)
-- 🎥 **Lottie animations** for onboarding and splash screens
-- ⚡ **Pull-to-refresh animations** for lists
-- 🎭 **Matched Geometry Effects** for smooth transitions  
+### Languages
+
+* Swift
+* Objective-C
+* Java
+* SQL
+* JavaScript
+* C++
+
+### iOS Development
+
+* SwiftUI
+* UIKit
+* Swift Concurrency (async/await)
+* Combine
+* Core Data
+* Push Notifications
+* Background Tasks
+
+### Architecture
+
+* MVVM
+* Clean Architecture
+* Dependency Injection
+* Modular Architecture
+* Swift Package Manager (SPM)
+
+### Networking
+
+* URLSession
+* Alamofire
+* REST APIs
+* JWT Authentication
+* Codable
+
+### Testing & CI/CD
+
+* XCTest
+* UI Testing
+* TestFlight
+* Jenkins
+* Firebase Crashlytics
+
+### Tools
+
+* Xcode
+* Git
+* Jira
+* Postman
+* Firebase
+* Instruments
 
 ---
 
-## 🧠 Projects  
+## 💼 Professional Experience
 
-### 📱 iOS Projects  
-- 🎨 [**Expense Tracker App**](https://github.com/SangaleBhushan/Expense_Tracker_App) – Custom SwiftUI reusable components (action buttons, loaders, bottom sheets).  
-- 🧾 [**SuperSwiftUIView + HudView Integration**](https://github.com/SangaleBhushan) – Clean state management with overlay HUD animations.  
-- 📡 **PostExplorer App (Assignment)** – API integration, favorites tab, search, splash screen animations, and error handling.
+### Software Engineer (iOS)
 
-### ☕ Java Projects  
-- 💳 [**Banking Microservice API**](https://github.com/SangaleBhushan) – Secure service with Spring Boot, JWT, and REST APIs.  
+**Siddhatech Software Services Pvt. Ltd.**
+📍 Pune, India | Jun 2023 – Present
 
-### 🌐 Web Projects  
-- 🧑‍💻 [**Binge Guide (React + Node.js)**](https://github.com/SangaleBhushan/Binge-Guide) – Fullstack app with clean UI and MongoDB backend.  
-
----
-
-## ⚔️ Competitive Programming  
-
-- 💻 Actively solving DSA problems on:  
-  - [LeetCode](https://leetcode.com/u/Bhushan_Sangale15/)  
-  - Codeforces  
-  - HackerRank  
+* Migrated legacy Objective-C/UIKit modules to SwiftUI
+* Reduced app cold start time by **28%**
+* Built secure onboarding and biometric authentication flows
+* Developed modular architecture using Swift Package Manager
+* Implemented scalable push notification systems using FCM/APNs
+* Maintained **99.5%+ crash-free sessions**
+* Awarded **Performance of the Year**
 
 ---
 
-## 👨‍💼 Work Experience  
+## 📌 Featured Projects
 
-**Software Engineer** — *SidhhTech Software Solutions*  
-📍 Pune, India  
-🕓 *2024 – Present*  
-- Developed and deployed **iOS apps** using **Swift, SwiftUI, and UIKit**.  
-- Focused on **animations, usability, and modular reusable components**.  
-- Collaborated with cross-functional teams (design, backend, QA).  
-- Maintained a **clean, testable codebase** and actively participated in reviews.  
+### SwiftCollectionExtras
+
+A lightweight Swift Package extending Collection, Array, and Sequence APIs with reusable utility algorithms.
+
+**Highlights**
+
+* Generic algorithms
+* High-performance implementations
+* XCTest coverage
+* Swift Package Manager support
+
+### Binge Guide
+
+Full-stack movie discovery platform built with React, Redux Toolkit, Firebase, and TMDB APIs.
+
+**Highlights**
+
+* Authentication & user profiles
+* Favorites & watchlists
+* RTK Query
+* Responsive UI
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 Achievements
+
+* 🥇 Performance of the Year Award
+* 📱 Production experience in Banking & FinTech applications
+* 💻 Active LeetCode problem solver
+* 🚀 Published reusable Swift Package libraries
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SangaleBhushan&show_icons=true&theme=radical" alt="Bhushan's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SangaleBhushan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SangaleBhushan&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SangaleBhushan&theme=radical" />
 </p>
 
 ---
 
-## 📫 Let’s Connect  
+## 🤝 Connect With Me
 
-- ✉️ [sangalebhushan05@gmail.com](mailto:sangalebhushan05@gmail.com)  
-- 💼 [LinkedIn: Bhushan Sangale](https://www.linkedin.com/in/bhushan-sangale-8b198a227/)  
-- 🌐 Portfolio (coming soon...)  
+* 📧 [sangalebhushan05@gmail.com](mailto:sangalebhushan05@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/bhushan-sangale-8b198a227
+* 💻 GitHub: github.com/SangaleBhushan
+* 🧠 LeetCode: leetcode.com/u/Bhushan_Sangale15
 
 ---
 
-⭐ *If you like what you see, let’s connect and collaborate!* 🚀  
+⭐ Always interested in discussing iOS architecture, Swift, performance optimization, and scalable mobile systems.
