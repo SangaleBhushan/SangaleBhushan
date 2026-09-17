@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer with 2.3+ years of experience** building scalable, secure, and high-performance iOS applications using **Swift, SwiftUI, UIKit, and Objective-C**.
+I'm a **Software Engineer with 3 years of experience** building scalable, secure, and high-performance iOS applications using **Swift, SwiftUI, UIKit, and Objective-C**.
 
 My professional experience includes working on **banking and fintech applications**, where I've worked on secure authentication, transaction workflows, networking, modular architecture, push notifications, performance optimization, and production reliability.
 
@@ -98,7 +98,7 @@ I enjoy understanding how systems work internally and building solutions that ar
 ## Software Engineer (iOS)
 
 ### Siddhatech Software Services Pvt. Ltd.
-📍 Pune, India | **Jul 2024 – Jul 2026**
+📍 Pune, India | **March 2024 – Jul 2026**
 
 - Migrated legacy modules from **Objective-C/UIKit to SwiftUI**, improving maintainability and UI consistency
 - Reduced application **cold start time by 28%** using dependency injection, lazy loading, and Swift Concurrency
@@ -117,7 +117,7 @@ I enjoy understanding how systems work internally and building solutions that ar
 
 ### A reusable Swift Package for collection utilities and algorithms.
 
-<a href="https://github.com/SangaleBhushan/SwiftCollectionExtras">
+<a href="https://github.com/SangaleBhushan/CollectionAlgorithms">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -144,7 +144,7 @@ I enjoy understanding how systems work internally and building solutions that ar
 
 ### Movie & TV discovery platform
 
-<a href="https://github.com/SangaleBhushan/BingeGuide">
+<a href="https://github.com/SangaleBhushan/Binge-Guide">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
